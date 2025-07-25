@@ -1,0 +1,18 @@
+# Folders to be excluded from the repository
+output_images/
+output_landmarks/
+results/
+temporal_model/
+VideoFlash/
+
+# Specific large or generated files to be excluded
+best_model.pth
+emotion_dataset.npz
+graph_data.pt
+
+# Common Python-related ignores (good practice)
+__pycache__/
+*.pyc
+venv/
+.venv/
+.DS_Store # macOS specific

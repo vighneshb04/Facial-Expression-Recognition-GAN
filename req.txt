@@ -1,0 +1,9 @@
+opencv-python 
+dlib 
+imutils
+numpy
+torch-geometric
+torch
+torchaudio
+torchvision
+
